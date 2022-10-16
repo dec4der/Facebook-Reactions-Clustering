@@ -7,6 +7,7 @@ A Cluster model designed to study the different types of reactions classified in
 5. Haha
 6. Sad
 7. Angry
+
 Using KMeansClustering, The clustering was done in this projects
 
 Dataset used: https://www.kaggle.com/datasets/ahmettezcantekin/beginner-datasets
